@@ -13,7 +13,7 @@ The game tests your memory and concentration by asking you to repeat the sequenc
 
 ---
 
-## 🖼 Demo Screenshot  
+## 🖼 Screenshot  
 
 
 ![Simon Says Screenshot](simon.png)  
